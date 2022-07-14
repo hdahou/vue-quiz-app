@@ -1,6 +1,7 @@
 {
   "name": "quiz-app",
   "version": "0.0.0",
+  "homepage" : "https://hdahou.github.io/vue-quiz-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
